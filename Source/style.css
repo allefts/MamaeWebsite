@@ -1,0 +1,49 @@
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(85,9,121,1) 25%, rgba(0,212,255,1) 100%);
+}
+
+
+.messageImg h1{
+    margin: 150px 0px 0px 0px;
+    display: block;
+    border-width: 100%;
+}
+
+.pictureCont{
+    width: 200px;
+    height: 100px;
+    margin: 0, auto;
+
+
+}
+.parabens
+{
+    color: red;
+    font-size: 40px;
+    display: block;
+    text-align: center;
+    font-weight: bolder;
+}
+
+img.imgMamae{
+    width: 100%;
+
+}
+
+.head{
+    background-color: #f4f4f4;
+    margin: 2px;
+    padding-bottom: 10px;
+    border: 2px solid black;
+    width: auto;
+    text-align: center;
+    color: plum;
+    font-size: 60px;
+}
+
+.col-3{
+    width: 24.99%;
+    align-items: left;
+    
+}
